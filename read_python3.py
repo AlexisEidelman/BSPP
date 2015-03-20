@@ -43,3 +43,5 @@ tab.groupby("Id_Intervention_Abrege_Motif")['erreur'].sum()
 
 tab.groupby(['Id_Intervention_Abrege_Motif', 'Code_Cri']).size()
 
+
+# Objectif : 
