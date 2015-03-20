@@ -56,3 +56,5 @@ target/
 *.spyderworkspace
 .spyderproject
 *.spyderproject
+*.spyderproject
+.spyderworkspace
